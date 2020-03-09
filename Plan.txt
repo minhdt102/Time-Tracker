@@ -1,0 +1,10 @@
+I, Ý tưởng và mục tiêu:
+- App track thời gian sử dụng laptop
+- App khởi động cùng window
+- Tính giờ
+- Dừng và lưu lại khi pause hoặc khi tắt máy
+II, Thực hiện:
+- Cách tạo app bằng python
+- Tìm cách làm app khởi động cùng window
+- Tìm cách pause và lưu lại thời gian
+- Tìm cách pause khi tắt máy / ngủ
